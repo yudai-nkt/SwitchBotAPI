@@ -4,8 +4,8 @@
   "description": "Documentation for SwitchBot API",
   "author": "Yudai Nakata <yudai.nkt@gmail.com>",
   "scripts": {
-    "build": "honkit build",
-    "serve": "honkit serve"
+    "build": "honkit build . docs",
+    "serve": "honkit serve . docs"
   },
   "devDependencies": {
     "honkit": "^3.6.16"
