@@ -1,0 +1,6 @@
+{
+  "root": "./md",
+  "structure": {
+    "readme": "index.md"
+  }
+}

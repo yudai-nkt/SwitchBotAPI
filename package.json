@@ -1,0 +1,22 @@
+{
+  "name": "switchbot-api-doc",
+  "version": "0.0.0",
+  "description": "Documentation for SwitchBot API",
+  "author": "Yudai Nakata <yudai.nkt@gmail.com>",
+  "scripts": {
+    "build": "honkit build",
+    "serve": "honkit serve"
+  },
+  "devDependencies": {
+    "honkit": "^3.6.16"
+  },
+  "homepage": "https://github.com/yudai-nkt/jupyterlab_city-lights-theme",
+  "bugs": {
+    "url": "https://github.com/yudai-nkt/jupyterlab_city-lights-theme/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yudai-nkt/jupyterlab_city-lights-theme.git"
+  },
+  "private": true
+}
